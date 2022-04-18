@@ -7,8 +7,8 @@
 - Douglas Lam
 
 
-### Requirements:
-- Create a Spark Application that processes COVID data
+### Features:
+- Created a Spark Application that processes COVID data
 - Analysis of COVID data
 - Produced a .jar file for your analysis.
 - Determined Trends from Data
