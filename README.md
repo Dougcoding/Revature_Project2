@@ -7,7 +7,7 @@
 - Douglas Lam
 
 
-Requirements:
+### Requirements:
 - Create a Spark Application that processes COVID data
 - Analysis of COVID data
 - Produced a .jar file for your analysis.
@@ -36,7 +36,7 @@ Requirements:
 
 
 
-<h3>Getting Started</h3>
+### Getting Started
 How to run the app using spark-submit in WSL-Ubuntu
 
 <ul>
